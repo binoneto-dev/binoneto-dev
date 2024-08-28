@@ -1,7 +1,7 @@
 # Analista de Dados 
 
 #### Olá, meu nome é Albino Armelin Neto
-Atualmente estudando Análise de Dados pela Escola Britânica de Artes Criativas & Tecnologia (EBAC).
+Atualmente estudando Ciencia de Dados pela Gran Faculdade e Análise de Dados pela Escola Britânica de Artes Criativas & Tecnologia (EBAC).
 
 #### Desenvolvendo análises e insights com as principais linguagens e ferramentas:
 
